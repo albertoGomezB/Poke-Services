@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "poke-stats",
+      "type": "com.agb.poke.config.PokeConfiguration",
+      "sourceType": "com.agb.poke.config.PokeConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "poke-stats.attack",
+      "type": "java.lang.Integer",
+      "sourceType": "com.agb.poke.config.PokeConfiguration"
+    },
+    {
+      "name": "poke-stats.def",
+      "type": "java.lang.Integer",
+      "sourceType": "com.agb.poke.config.PokeConfiguration"
+    },
+    {
+      "name": "poke-stats.name",
+      "type": "java.lang.String",
+      "sourceType": "com.agb.poke.config.PokeConfiguration"
+    },
+    {
+      "name": "poke-stats.ps",
+      "type": "java.lang.Integer",
+      "sourceType": "com.agb.poke.config.PokeConfiguration"
+    },
+    {
+      "name": "poke-stats.special-attack",
+      "type": "java.lang.Integer",
+      "sourceType": "com.agb.poke.config.PokeConfiguration"
+    },
+    {
+      "name": "poke-stats.special-def",
+      "type": "java.lang.Integer",
+      "sourceType": "com.agb.poke.config.PokeConfiguration"
+    },
+    {
+      "name": "poke-stats.speed",
+      "type": "java.lang.Integer",
+      "sourceType": "com.agb.poke.config.PokeConfiguration"
+    }
+  ],
+  "hints": []
+}

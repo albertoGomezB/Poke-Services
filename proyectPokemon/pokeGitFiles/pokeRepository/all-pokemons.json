@@ -1,0 +1,47 @@
+[
+    {
+      "name": "charizard",
+      "attack": 204,
+      "def": 192,
+      "ps": 297,
+      "special_attack": 254,
+      "special_def": 206,
+      "speed": 236
+    },
+    {
+      "name": "blastoise",
+      "attack": 202,
+      "def": 236,
+      "ps": 299,
+      "special_attack": 206,
+      "special_def": 246,
+      "speed": 192
+    },
+    {
+      "name": "venusaur",
+      "attack": 200,
+      "def": 202,
+      "ps": 301,
+      "special_attack": 236,
+      "special_def": 236,
+      "speed": 196
+    },
+    {
+      "name": "mew",
+      "attack": 236,
+      "def": 236,
+      "ps": 341,
+      "special_attack": 236,
+      "special_def": 236,
+      "speed": 236
+    },
+    {
+      "name": "mewtwo",
+      "attack": 256,
+      "def": 216,
+      "ps": 353,
+      "special_attack": 344,
+      "special_def": 216,
+      "speed": 296
+    }
+  ]

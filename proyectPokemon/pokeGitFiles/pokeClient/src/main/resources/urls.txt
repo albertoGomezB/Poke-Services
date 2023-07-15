@@ -1,0 +1,6 @@
+
+# PokeStatsClient (returns the properties of the external file pokemon-stats.properties)
+localhost:8080/pokemon/stats
+
+# PokeStatsServer
+http://localhost:8888/poke-stats/
