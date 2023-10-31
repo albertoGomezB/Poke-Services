@@ -1,7 +1,6 @@
 # Proyecto Microservicios Pokemon 🐸
 
 
-
 Este proyecto consta de **dos subproyectos** 🚀:
 
 
@@ -9,22 +8,10 @@ El primer proyecto se llama **PokeApi**,  se compone de cuatro microservicios : 
 
 El segundo proyecto se llama **PokeGitFiles**📁, consta de dos microservicios : **pokeServer**🛫 el cual se comunica con un **repositorio de git**🦉, en donde se encuentran las stats de los pokemons, y el **pokeClient**🛬 se conecta a ese servidor para obtener los datos del repositorio git.
 
-## Pasos a ejecutar Proyecto PokeApi  🔧
-
-- ` Iniciar microservicios `  **pokeEurekaServer** -> **pokeServer** -> **pokeClient**
-- ` Testear endpoints ` **pokeServer** -> **pokeClient**
-- ` Iniciar microservicios `  **pokeBd**
-- ` Testear endpoints `  **pokeBd**
-
-## Pasos a ejecutar Proyecto PokeGitFiles  🔧
-
-- ` Iniciar microservicios `  **PokeServer** -> **PokeClient**
-- ` Testear endpoints `   **PokeClient** `
-
 ## Tecnologías Utilizadas ☕
 
   - `Java 17`
-  - `SpringBoot3`
+  - `SpringBoot 3`
   - `SpringCloud`
   - `Maven`
   - `Mysql`
